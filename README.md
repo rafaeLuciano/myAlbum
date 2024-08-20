@@ -1,0 +1,2 @@
+# myAlbum
+My album component
